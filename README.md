@@ -65,6 +65,7 @@ In order to report any bugs, repro the issue on your device and then tap on 'Rep
 * Vivo X Fold 3 Pro
 
 Official APKs are published through GitHub Releases. You can use the SHA-256 value to verify that your downloaded APK matches the official release.
+**Download the latest version: https://github.com/code-robby-code/transform-fold/releases/latest**
 
 ### Buy me a coffee: 
 If you want to support further development, bug fixes and new suggestions on unique effects that I can implement on the app 🙂
