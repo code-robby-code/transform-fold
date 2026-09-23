@@ -1,0 +1,21 @@
+Transform Fold
+
+PROPRIETARY SOFTWARE. All rights reserved.
+
+Copyright © 2026 [code-robby-code/transform-fold]
+
+Transform Fold is proprietary software.
+
+The APK may be downloaded and used for personal, non-commercial use.
+
+Without prior written permission from the copyright holder, you may not:
+
+- redistribute or mirror the APK;
+- sell, rent, lease, sublicense, or otherwise distribute the APK;
+- repackage or modify the APK;
+- upload the APK to another app store, website, repository, or distribution platform;
+- remove copyright or proprietary notices.
+
+Official downloads are available only from: https://github.com/code-robby-code/transform-fold
+
+This software is provided "as is", to the extent permitted by law.
