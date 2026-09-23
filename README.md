@@ -1,10 +1,13 @@
 <img width="60" height="52" alt="image" src="https://github.com/user-attachments/assets/2c9c6c1f-16c9-4b18-93dc-7e2365d8e920" /> 
 
 # Transform Fold: live fold/unfold transition effects for Android foldables
-A new way to transform how fold and unfold transitions on an android foldable phone. The app offers a variety of fold/unfold transition effects for a foldable phone. The effect is rendered independently of the launcher and sits over whatever is currently being displayed, so you can use it with any launcher/app.
+A new way to transform how fold and unfold transitions on an android foldable phone. The app offers:
+1. A variety of fold/unfold transition effects for a foldable phone.
+2. The effect is rendered independently of the launcher and sits over whatever is currently being displayed, so you can use it with any launcher/app.
+3. It renders everything live, and it does not take screenshots of your screen to create the animation.
 
 So it's up to the user if they want to match their inner and outer screen layouts, the app will simply render the background.
-It renders everything live, and it does not take screenshots of your screen to create the animation. The app doesn't request standard Android runtime permissions. It requires Shizuku to be installed, running, and authorised.
+The app doesn't request standard Android runtime permissions. It requires Shizuku to be installed, running, and authorised.
 
 <img width="150" height="600" alt="image" src="https://github.com/user-attachments/assets/92850ce4-96ea-47a9-a9bb-60c7db0379f9" />
 <img width="150" height="600" alt="image" src="https://github.com/user-attachments/assets/c2ab1f12-7aff-439e-bf88-0164285c220c" />
@@ -46,6 +49,8 @@ In order to report any bugs, repro the issue on your device and then tap on 'Rep
 
 **Tested on devices:**
 1. Vivo X Fold 3 Pro
+
+Official APKs are published through GitHub Releases. You can use the SHA-256 value to verify that your downloaded APK matches the official release.
 
 **Buy me a coffee:** If you want to support further development, bug fixes and new suggestions on unique effects that I can implement on the app 🙂
 : https://buymeacoffee.com/code.robby.code
