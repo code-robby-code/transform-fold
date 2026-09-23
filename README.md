@@ -1,8 +1,13 @@
+<img width="60" height="52" alt="image" src="https://github.com/user-attachments/assets/2c9c6c1f-16c9-4b18-93dc-7e2365d8e920" /> 
+
 # Transform Fold: live fold/unfold transition effects for Android foldables
 A new way to transform how fold and unfold transitions on an android foldable phone. The app offers a variety of fold/unfold transition effects for a foldable phone. The effect is rendered independently of the launcher and sits over whatever is currently being displayed, so you can use it with any launcher/app.
 
 So it's up to the user if they want to match their inner and outer screen layouts, the app will simply render the background.
 It renders everything live, and it does not take screenshots of your screen to create the animation. The app doesn't request standard Android runtime permissions. It requires Shizuku to be installed, running, and authorised.
+
+<img width="150" height="600" alt="image" src="https://github.com/user-attachments/assets/92850ce4-96ea-47a9-a9bb-60c7db0379f9" />
+<img width="150" height="600" alt="image" src="https://github.com/user-attachments/assets/c2ab1f12-7aff-439e-bf88-0164285c220c" />
 
 Here are the list of effects the app currently offers:
 
