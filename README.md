@@ -12,7 +12,7 @@ The app doesn't request standard Android runtime permissions. It requires Shizuk
 <img width="150" height="600" alt="image" src="https://github.com/user-attachments/assets/92850ce4-96ea-47a9-a9bb-60c7db0379f9" />
 <img width="150" height="600" alt="image" src="https://github.com/user-attachments/assets/c2ab1f12-7aff-439e-bf88-0164285c220c" />
 
-**Demo videos:**
+### Demo videos:
 1. Shorts:
  - https://youtube.com/shorts/CYu9wCnmXW8?si=2e4SJ9g3LV0JJouX
  - https://youtube.com/shorts/jKEXcfQLxio?si=3KYHSKrP2layH1xJ
@@ -26,7 +26,7 @@ The app doesn't request standard Android runtime permissions. It requires Shizuk
 
 Here are the list of effects the app currently offers:
 
-**Effects:**
+### Effects:
 * Glass - Closest to iPhone Duo effect
 * Frosted Crystal - Crystal frost pattern
 * Liquid Mercury - Metallic fluid effect
@@ -35,34 +35,37 @@ Here are the list of effects the app currently offers:
 * Live Blur - Real time blur effect
 * Blur Panel - Blur overlay panel
 
-**Status:** Users can enable/disable the effects. It also shows whether the selected effect is currently running, stopped, or has encountered an error.
+### Status: 
+Users can enable/disable the effects. It also shows whether the selected effect is currently running, stopped, or has encountered an error.
 
-**Settings:** 
+### Settings: 
 * Blur Strength - Controls the blur intensity
 * Outer Rotation - Controls the rotation intensity for outer panel
 * Inner Rotation - Controls the rotation intensity for inner panel
 * Outer Shade - Controls the shade depth and intensity for outer panel
 * Inner Shade - Controls the shade depth and intensity for inner panel
 
-**Theme:** Enable/Disable dark mode for the app
+### Theme:
+Enable/Disable dark mode for the app
 
-**Requirement:**
+### Requirement:
 * Android foldable device
 * Shizuku must be installed and running, and the app must be authorised in Shizuku. Follow the steps to set up Shizuku: https://shizuku.rikka.app/guide/setup/
 
-**Known issues:**
+### Known issues:
 * Orientation lock - Currently the transition is not locked to portrait mode, and it moves to landscape orientation, breaking the effect visually.
 * Complete darkness - Sometimes the complete effect goes black, especially at high rotation percentages. It gets fixed if the phone is completely folded/unfolded again, or by disabling/enabling the effect.
 * There is a slight lag between live contents shown on the left panel and right panel. It's because of real time rendering.
 * Inner and outer screen lighting at the same time - I haven't been able to fully test this because my fold phone turns off the outer display when the inner display is activated.
 
-**Report bugs:** 
+### Report bugs:
 In order to report any bugs, repro the issue on your device and then tap on 'Report Bug' under 'Status' card. It will generate a log txt file, which you can upload with the Github issue you create.
 
-**Tested on devices:**
+### Tested on devices:
 * Vivo X Fold 3 Pro
 
 Official APKs are published through GitHub Releases. You can use the SHA-256 value to verify that your downloaded APK matches the official release.
 
-**Buy me a coffee:** If you want to support further development, bug fixes and new suggestions on unique effects that I can implement on the app 🙂
+### Buy me a coffee: 
+If you want to support further development, bug fixes and new suggestions on unique effects that I can implement on the app 🙂
 : https://buymeacoffee.com/code.robby.code
