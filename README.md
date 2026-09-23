@@ -21,8 +21,8 @@ The app doesn't request standard Android runtime permissions. It requires Shizuk
  - https://youtube.com/shorts/j11O2hek5hI?si=Jn3ubG02e4VQL1bc
 
 2. Full length:
- - https://youtu.be/N4W1M_VSaf8?si=J2YiYX-h-d3R4FUf
- - https://youtu.be/85IxxdcHGe8?si=ySSmPb1wo6FL7KL_
+ - https://youtu.be/N4W1M_VSaf8?si=bN6MgKW0G_04qjzG
+ - https://youtu.be/85IxxdcHGe8?si=7ucu7_ng26vYpkH1
 
 Here are the list of effects the app currently offers:
 
