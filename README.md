@@ -18,17 +18,17 @@ Here are the list of effects the app currently offers:
 **Status:** Users can enable/disable the effects. It also shows whether the selected effect is currently running, stopped, or has encountered an error.
 
 **Settings:** 
-Blur Strength - Controls the blur intensity
-Outer Rotation - Controls the rotation intensity for outer panel
-Inner Rotation - Controls the rotation intensity for inner panel
-Outer Shade - Controls the shade depth and intensity for outer panel
-Inner Shade - Controls the shade depth and intensity for inner panel
+1. Blur Strength - Controls the blur intensity
+2. Outer Rotation - Controls the rotation intensity for outer panel
+3. Inner Rotation - Controls the rotation intensity for inner panel
+4. Outer Shade - Controls the shade depth and intensity for outer panel
+5. Inner Shade - Controls the shade depth and intensity for inner panel
 
 **Theme:** Enable/Disable dark mode for the app
 
 **Requirement:**
-Android foldable device
-Shizuku must be installed and running, and the app must be authorised in Shizuku. Follow the steps to set up Shizuku: https://shizuku.rikka.app/guide/setup/
+1. Android foldable device
+2. Shizuku must be installed and running, and the app must be authorised in Shizuku. Follow the steps to set up Shizuku: https://shizuku.rikka.app/guide/setup/
 
 **Known issues:**
 1. Orientation lock - Currently the transition is not locked to portrait mode, and it moves to landscape orientation, breaking the effect visually.
@@ -40,7 +40,7 @@ Shizuku must be installed and running, and the app must be authorised in Shizuku
 In order to report any bugs, repro the issue on your device and then tap on 'Report Bug' under 'Status' card. It will generate a log txt file, which you can upload with the Github issue you create.
 
 **Tested on devices:**
-Vivo X Fold 3 Pro 
+1. Vivo X Fold 3 Pro
 
 **Buy me a coffee:** If you want to support further development, bug fixes and new suggestions on unique effects that I can implement on the app 🙂
-https://buymeacoffee.com/code.robby.code
+: https://buymeacoffee.com/code.robby.code
