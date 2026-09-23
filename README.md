@@ -14,15 +14,15 @@ The app doesn't request standard Android runtime permissions. It requires Shizuk
 
 **Demo videos:**
 - Shorts:
-* https://youtube.com/shorts/CYu9wCnmXW8?si=2e4SJ9g3LV0JJouX
-* https://youtube.com/shorts/jKEXcfQLxio?si=3KYHSKrP2layH1xJ
-* https://youtube.com/shorts/RO5jwttzyCQ?si=s1WuMrxU6VbElSZu
-* https://youtube.com/shorts/XPKOztPb91o?si=rbWP7AwKOvYvy_MB
-* https://youtube.com/shorts/j11O2hek5hI?si=Jn3ubG02e4VQL1bc
+ - https://youtube.com/shorts/CYu9wCnmXW8?si=2e4SJ9g3LV0JJouX
+ - https://youtube.com/shorts/jKEXcfQLxio?si=3KYHSKrP2layH1xJ
+ - https://youtube.com/shorts/RO5jwttzyCQ?si=s1WuMrxU6VbElSZu
+ - https://youtube.com/shorts/XPKOztPb91o?si=rbWP7AwKOvYvy_MB
+ - https://youtube.com/shorts/j11O2hek5hI?si=Jn3ubG02e4VQL1bc
 
 - Full length:
-* https://youtu.be/N4W1M_VSaf8?si=J2YiYX-h-d3R4FUf
-* https://youtu.be/85IxxdcHGe8?si=ySSmPb1wo6FL7KL_
+ - https://youtu.be/N4W1M_VSaf8?si=J2YiYX-h-d3R4FUf
+ - https://youtu.be/85IxxdcHGe8?si=ySSmPb1wo6FL7KL_
 
 Here are the list of effects the app currently offers:
 
