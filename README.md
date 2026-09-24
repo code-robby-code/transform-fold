@@ -12,17 +12,8 @@ The app doesn't request standard Android runtime permissions. It requires Shizuk
 <img width="150" height="600" alt="image" src="https://github.com/user-attachments/assets/92850ce4-96ea-47a9-a9bb-60c7db0379f9" />
 <img width="150" height="600" alt="image" src="https://github.com/user-attachments/assets/c2ab1f12-7aff-439e-bf88-0164285c220c" />
 
-### Demo videos:
-1. Shorts:
- - https://youtube.com/shorts/CYu9wCnmXW8?si=2e4SJ9g3LV0JJouX
- - https://youtube.com/shorts/jKEXcfQLxio?si=3KYHSKrP2layH1xJ
- - https://youtube.com/shorts/RO5jwttzyCQ?si=s1WuMrxU6VbElSZu
- - https://youtube.com/shorts/XPKOztPb91o?si=rbWP7AwKOvYvy_MB
- - https://youtube.com/shorts/j11O2hek5hI?si=Jn3ubG02e4VQL1bc
-
-2. Full length:
- - https://youtu.be/N4W1M_VSaf8?si=bN6MgKW0G_04qjzG
- - https://youtu.be/85IxxdcHGe8?si=7ucu7_ng26vYpkH1
+### Demo videos: 
+https://www.youtube.com/@transform-fold
 
 Here are the list of effects the app currently offers:
 
@@ -67,6 +58,6 @@ In order to report any bugs, repro the issue on your device and then tap on 'Rep
 Official APKs are published through GitHub Releases. You can use the SHA-256 value to verify that your downloaded APK matches the official release.
 **Download the latest version: https://github.com/code-robby-code/transform-fold/releases/latest**
 
-### Buy me a coffee: 
+### Support: 
 If you want to support further development, bug fixes and new suggestions on unique effects that I can implement on the app 🙂
 : https://buymeacoffee.com/code.robby.code
